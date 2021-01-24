@@ -1,0 +1,15 @@
+.root{
+-fx-font-size: 14;
+-fx-background-image: url("https://pbs.twimg.com/media/D48Q93iWsAULQ-S.jpg:large");
+}
+
+.button:hover{
+-fx-font-size: 16;
+
+}
+#textArea{
+
+}
+
+
+
