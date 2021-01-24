@@ -16,8 +16,7 @@ public class MainWindow extends Application {
         primaryStage.show();
         primaryStage.setResizable(false);
     }
-
-
+    
     public static void main() {
         launch();
     }
